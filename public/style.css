@@ -1,0 +1,81 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.header h1 {
+    text-align: center;
+    margin: 20px auto;
+}
+
+.header p {
+    text-align: center;
+}
+
+.header img {
+    display: flex;
+    margin: 0 auto;
+}
+
+.add-workouts {
+    border: solid 1px #191919;
+    background-color: #de5b5b;
+    padding: 10px;
+    margin: 30px;
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.add-workouts h3 {
+    display: block;
+    color: #fafafa;
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+.add-new {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    text-transform: uppercase;
+}
+
+button {
+    background-color: rgba(64, 127, 235, 0.81);
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+    color: white;
+    font-size: 1em;
+}
+
+.view-workouts {
+    border: solid 1px #191919;
+    background-color: #67bb63;
+    padding: 10px;
+    display: flex;
+    margin: 30px auto;
+    width: 50%;
+    border-radius: 20px;
+}
+
+.view-workouts h3 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer p {
+    font-size: 0.5em;
+    text-align: center;
+}

@@ -1,0 +1,24 @@
+{
+  "name": "fitness-tracker",
+  "version": "1.0.0",
+  "description": "A workout tracker utilizing mongoDB and mongoose.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephmarie17/fitness-tracker.git"
+  },
+  "author": "Stephanie Aurelio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephmarie17/fitness-tracker/issues"
+  },
+  "homepage": "https://github.com/stephmarie17/fitness-tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.11"
+  }
+}
